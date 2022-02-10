@@ -1,3 +1,5 @@
+package gpgman;
+
 import java.nio.file.*;
 import java.security.*;
 import java.security.spec.*;
